@@ -1,5 +1,6 @@
-mod atlassian_oa;
+mod real_tests;
+mod hrank_practice;
 
 fn main() {
-    atlassian_oa::main();
+    hrank_practice::algorithms::main();
 }

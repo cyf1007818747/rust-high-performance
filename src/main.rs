@@ -1,3 +1,5 @@
+mod atlassian_oa;
+
 fn main() {
-    println!("Hello, world!");
+    atlassian_oa::main();
 }
